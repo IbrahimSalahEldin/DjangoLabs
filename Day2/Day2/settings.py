@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'Day2.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'iti_system',
+        'NAME': 'itidjango',
         'USER': 'root',
-        'PASSWORD': 'msn3459900',
+        'PASSWORD': '',
         'HOST': 'localhost'
     }
 }
